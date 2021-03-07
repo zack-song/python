@@ -64,3 +64,5 @@ if (__name__ == "__main__"):
     parser.setContentHandler(Handler)
 
     parser.parse("movies.xml")
+
+    
